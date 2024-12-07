@@ -1,6 +1,5 @@
 # Inventory Management System - Academic Project
 
-**Description**
 This C# console application was developed as part of the Microsoft Foundations of Coding Full-Stack course. Its primary objective is to demonstrate understanding of fundamental programming concepts in C# and the development of basic applications. 
 
 The system allows for the management of a simple inventory, offering functionalities such as adding, updating, viewing, and removing products.
