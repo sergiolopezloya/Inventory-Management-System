@@ -23,7 +23,7 @@ The system allows for the management of a simple inventory, offering functionali
 **Usage Instructions**
 1. **Clone the repository:**
    ```bash
-   git clone https://your-repository.git
+   git clone https://github.com/sergiolopezloya/Inventory-Management-System.git
 2. **Navigate to the project directory:**
    ```bash
    cd inventory-management-system
