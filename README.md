@@ -24,6 +24,12 @@ The system allows for the management of a simple inventory, offering functionali
 1. **Clone the repository:**
    ```bash
    git clone https://your-repository.git
+2. **Navigate to the project directory:**
+   ```bash
+   cd inventory-management-system
+3. **Run the application:**
+   ```bash
+    dotnet run
 
 ****This project was developed as part of the Microsoft Foundations of Coding Full-Stack course.****
 
